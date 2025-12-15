@@ -1,16 +1,9 @@
-# Welcome to your Lovable project
+# The Smart Waste Management & Recycling System is a technology-driven solution designed to improve waste collection, sorting, and recycling in Nairobi suburbs. The project aims to support households, youth groups, and small waste collectors by providing a simple digital platform that promotes proper waste disposal and recycling practices.
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/40d063b8-e552-4d8f-beb8-667238ee8f68
+**URL**: https://lovable.dev/projects/40d063b8-e552-4d8f-beb8-667238ee8f
 
-## How can I edit this code?
-
-There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/40d063b8-e552-4d8f-beb8-667238ee8f68) and start prompting.
 
 Changes made via Lovable will be committed automatically to this repo.
 
