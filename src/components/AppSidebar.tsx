@@ -6,9 +6,9 @@ import {
   Settings, 
   LogOut,
   Recycle,
-  Leaf,
   Trash2,
-  CheckSquare
+  CheckSquare,
+  Calculator
 } from "lucide-react";
 import { NavLink, useLocation } from "react-router-dom";
 
@@ -21,7 +21,6 @@ import {
   SidebarMenu,
   SidebarMenuButton,
   SidebarMenuItem,
-  SidebarTrigger,
   useSidebar,
 } from "@/components/ui/sidebar";
 
@@ -32,6 +31,7 @@ const menuItems = [
   { title: "Verification", url: "/verification", icon: ShieldCheck },
   { title: "Tutorial", url: "/tutorial", icon: BookOpen },
   { title: "Task Management", url: "/tasks", icon: Trash2 },
+  { title: "Calculator", url: "/calculator", icon: Calculator },
   { title: "Settings", url: "/settings", icon: Settings },
 ];
 
