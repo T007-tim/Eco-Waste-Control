@@ -11,6 +11,7 @@ import Verification from "./pages/Verification";
 import Tutorial from "./pages/Tutorial";
 import TaskManagement from "./pages/TaskManagement";
 import Settings from "./pages/Settings";
+import Calculator from "./pages/Calculator";
 import NotFound from "./pages/NotFound";
 
 const queryClient = new QueryClient();
@@ -30,6 +31,7 @@ const App = () => (
             <Route path="/tutorial" element={<Tutorial />} />
             <Route path="/tasks" element={<TaskManagement />} />
             <Route path="/settings" element={<Settings />} />
+            <Route path="/calculator" element={<Calculator />} />
             {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
             <Route path="*" element={<NotFound />} />
           </Routes>
